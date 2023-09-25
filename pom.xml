@@ -22,7 +22,7 @@
         <dependency>
             <groupId>com.github.delas</groupId>
             <artifactId>libPlg</artifactId>
-            <version>e855289333</version>
+            <version>0.0.10</version>
         </dependency>
         <dependency>
             <groupId>com.github.beamline</groupId>
